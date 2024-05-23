@@ -44,8 +44,8 @@ This is a simple e-commerce backend API built with Node.js and TypeScript. It pr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/e-commerce-api.git
-   cd e-commerce-api
+   git clone https://github.com/amuybar/e-commerse-restful-api.git
+   cd e-commerse-restful-api
 
 2. Install dependencies:
     ```sh
@@ -58,4 +58,15 @@ This is a simple e-commerce backend API built with Node.js and TypeScript. It pr
 4. Start the server:
     ```sh
     npm start
+
+## Access the end point in swagger doccumentation here:
+ -Paste this in your browser when youve runned the project
+
+ ```sh
+ http://localhost:3000/api-docs
+
+```
+## Note:
+- This is a basic implementation of a RESTful API for an e-commerce platform. It does not include authentication, authorization, or any other security measures
+
     

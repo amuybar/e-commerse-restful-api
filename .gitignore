@@ -1,0 +1,28 @@
+# Ignore files and folders
+*.tmp
+*.log
+*.swp
+*.bak
+*.old
+*.orig
+
+# Ignore IDE and editor files
+*.iml
+*.ipynb
+.vscode/
+.idea/
+.atom/
+.sublime/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules (if you're using npm)
+node_modules/
+
+# Ignore virtual environment (if you're using Python)
+venv/
+.env/
+
+# Add your own custom ignores here...
